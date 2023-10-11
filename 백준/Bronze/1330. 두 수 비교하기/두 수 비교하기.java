@@ -15,6 +15,7 @@ public class Main {
 		if (A == B)
 			System.out.println("==");
 
+		scanner.close();
 	}
 
 }
